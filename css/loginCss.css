@@ -1,0 +1,25 @@
+html{
+    background-color: white;
+}
+.container {
+    width: 30%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.forgot{
+    margin-left: 55%;
+}
+.btn.btn-secondary{
+    margin-top: 15px;
+}
+#exampleInputEmail1{
+    border-radius: 2px;
+}

@@ -1,0 +1,12 @@
+.giohang{
+    display: flex;
+}
+.anh{
+    width: 30%;
+}
+.info{
+    width: 50%;
+}
+.soluong{
+    width: 20%;
+}
